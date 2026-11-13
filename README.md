@@ -28,6 +28,16 @@ Rather than relying entirely on manual GUI video editors, this workflow utilizes
 6. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
 7. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
 
+## 📸 Screenshot of work :
+
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/302619c5-2a76-4582-a5cd-6593e1854596" />
+
+<img width="1672" height="941" alt="Professional Character Reference Sheet" src="https://github.com/user-attachments/assets/3c407339-34b3-41c2-99d8-c1e0390634ad" />
+<img width="1280" height="720" alt="frame2`" src="https://github.com/user-attachments/assets/c95cd77b-8e41-484e-9e1d-79286017b1c5" />
+<img width="1536" height="2752" alt="Plush_doll_starts_walking_street_2K_20260930134900" src="https://github.com/user-attachments/assets/9a765a0a-1078-4110-999f-19ce8f2dc6c4" />
+<img width="1024" height="682" alt="frame 2" src="https://github.com/user-attachments/assets/be4758c9-0c0d-409a-908d-ba236405b1aa" />
+
 
 
 8. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
