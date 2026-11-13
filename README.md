@@ -19,14 +19,13 @@ Rather than relying entirely on manual GUI video editors, this workflow utilizes
 ## 🎥 Youtube Link :
 
 <img width="1366" height="705" alt="Screenshot 2026-11-13 at 5 33 08 PM" src="https://github.com/user-attachments/assets/8a763add-b74a-47b6-bf87-53d21ce7c8f1" />
-
+https://www.youtube.com/@ReadLoudlyOfficial
 1. https://youtu.be/6zbSjNLbMtE?si=q8DjCpvqla9YTWse
 2. https://youtu.be/OuR4P840LV8?si=YPv-6zPWs7Q1IAwr
 3. https://youtu.be/38Pa1dHcXos?si=UA7QscGvhq1vCNR6
 4. https://youtu.be/8n8K0zVbuLo?si=OLjY-9Yx-Zmo61yF
 5. https://youtu.be/MKqYET0NrEs?si=IoyoXspKzhEYSYwO
 6. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
-7. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
 
 ## 📸 Screenshot of work :
 
@@ -37,9 +36,11 @@ Rather than relying entirely on manual GUI video editors, this workflow utilizes
 <img width="1280" height="720" alt="frame2`" src="https://github.com/user-attachments/assets/c95cd77b-8e41-484e-9e1d-79286017b1c5" />
 <img width="1536" height="2752" alt="Plush_doll_starts_walking_street_2K_20260930134900" src="https://github.com/user-attachments/assets/9a765a0a-1078-4110-999f-19ce8f2dc6c4" />
 <img width="1024" height="682" alt="frame 2" src="https://github.com/user-attachments/assets/be4758c9-0c0d-409a-908d-ba236405b1aa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20b9313c-6112-4b67-af7f-69ea836f241c" />
 
 
 
-8. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
+
+
 ---
 *Note: Due to proprietary company code, this repository serves as an architectural overview and technical showcase of the methodologies used.*
