@@ -16,8 +16,20 @@ Rather than relying entirely on manual GUI video editors, this workflow utilizes
 * **Spatial UI Compositing:** Advanced planar tracking to seamlessly integrate real-world UI screens and macOS-window compositions into generative video plates.
 * **Agentic Rendering:** Automated critique passes and beat-aligned storyboarding driven by **Claude Code** agents, outputting to verified 4K masters via **FFmpeg**.
 
-## 🎥 Example Output
-*(Drag and drop your MP4 or MOV file here when editing on GitHub to embed the video directly in the README!)*
+## 🎥 Youtube Link :
 
+<img width="1366" height="705" alt="Screenshot 2026-11-13 at 5 33 08 PM" src="https://github.com/user-attachments/assets/8a763add-b74a-47b6-bf87-53d21ce7c8f1" />
+
+1. https://youtu.be/6zbSjNLbMtE?si=q8DjCpvqla9YTWse
+2. https://youtu.be/OuR4P840LV8?si=YPv-6zPWs7Q1IAwr
+3. https://youtu.be/38Pa1dHcXos?si=UA7QscGvhq1vCNR6
+4. https://youtu.be/8n8K0zVbuLo?si=OLjY-9Yx-Zmo61yF
+5. https://youtu.be/MKqYET0NrEs?si=IoyoXspKzhEYSYwO
+6. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
+7. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
+
+
+
+8. https://youtu.be/fvMFM7m_RgY?si=qPhC1x53hC4B8CMK
 ---
 *Note: Due to proprietary company code, this repository serves as an architectural overview and technical showcase of the methodologies used.*
